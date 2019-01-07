@@ -1,0 +1,115 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="ganon-floor-tom_data" version="1.3.0" audacityversion="2.3.0" sel0="0.9175040000" sel1="0.9175040000" vpos="0" h="0.0000000000" zoom="732.4218750000" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="371847__cryanrautha__ganon-low-floor-tom" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="30379">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808838.au" len="30379" min="-0.719496" max="0.679346" rms="0.118241"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="371847__cryanrautha__ganon-low-floor-tom" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="34245">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808a87.au" len="34245" min="-0.715762" max="0.660099" rms="0.110903"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="371847__cryanrautha__ganon-low-floor-tom" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="34245">
+				<waveblock start="0">
+					<simpleblockfile filename="e08083be.au" len="34245" min="-0.689328" max="0.503833" rms="0.100111"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="371847__cryanrautha__ganon-low-floor-tom" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="31785">
+				<waveblock start="0">
+					<simpleblockfile filename="e08081c3.au" len="31785" min="-0.715763" max="0.701136" rms="0.108685"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="371847__cryanrautha__ganon-low-floor-tom" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="31785">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c13.au" len="31785" min="-0.716254" max="0.690154" rms="0.119387"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="371847__cryanrautha__ganon-low-floor-tom" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="31785">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808cbd.au" len="31785" min="-0.716104" max="0.715803" rms="0.119482"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="371847__cryanrautha__ganon-low-floor-tom" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="34245">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808514.au" len="34245" min="-0.717909" max="0.67183" rms="0.113718"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="371847__cryanrautha__ganon-low-floor-tom" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="32506">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f42.au" len="32506" min="-0.715618" max="0.654294" rms="0.108779"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="371847__cryanrautha__ganon-low-floor-tom" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="34894">
+				<waveblock start="0">
+					<simpleblockfile filename="e080855f.au" len="34894" min="-0.715822" max="0.619603" rms="0.105796"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="371847__cryanrautha__ganon-low-floor-tom" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="31195">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808dd8.au" len="31195" min="-0.719726" max="0.648975" rms="0.114591"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="371847__cryanrautha__ganon-low-floor-tom" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="32768">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c55.au" len="32768" min="-0.715912" max="0.621529" rms="0.108699"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
